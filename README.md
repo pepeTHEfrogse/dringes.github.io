@@ -28,5 +28,9 @@
 ![5206300330935654129_121](https://github.com/user-attachments/assets/eadf61fc-8db2-458f-b409-631f549a1f16)
 также у меня имеется логотип:
 <img width="640" height="640" alt="image" src="https://github.com/user-attachments/assets/ff619c1d-5397-40f2-831c-3277ed025161" />
+ссылка на официальный тгк-дневник:https://t.me/DRINGES_OS
 
-пока на этом все, удачи
+Сейчас я работаю над сайтом и оформлением, первое за что я возьмусь, наверное DRINGES-eco.
+
+пока на этом все, 
+с уважением, peps.
