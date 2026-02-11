@@ -1,1 +1,35 @@
+# Системные файлы
+.DS_Store
+Thumbs.db
+desktop.ini
 
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+
+# Логи и временные файлы
+*.log
+*.tmp
+*.temp
+
+# Сборки
+build/
+dist/
+*.egg-info/
+
+# Конфиденциальное
+*.key
+*.pem
+*.env
+secrets.json
